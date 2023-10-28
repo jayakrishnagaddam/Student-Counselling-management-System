@@ -1,2 +1,2 @@
-# Student-Counselling-management-System
+# Student-Counselling-Management-System
 My Curriculum Based Project
